@@ -1,5 +1,6 @@
 package edu.handong.csee.java.examples.thread;
 
+// 21600062 김미소:)
 public class HelloRunnable implements Runnable {
 	
 	static int staticCount = 0;
